@@ -1,10 +1,4 @@
-.top-menu {
-	font-family: "PT Sans", "Arial", sans-serif;
-	font-size: 14px;
-	line-height: 26px;
-	font-weight: bold;
-	color: #000000;
-}
+
 
 .content header h1 {
 	font-family: "PT Sans", "Arial", sans-serif;
@@ -183,7 +177,7 @@ fieldset {
 
 .symbols .stars{
 	font-family: "symbols";
-	
+
 	line-height: 21px;
 	color: #81b3d2;
 }
